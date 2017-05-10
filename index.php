@@ -45,7 +45,7 @@
 	  </table>
 	 </div>
  <div name="bottom" align="center">
- 	<img src="images/abajo.PNG" width="100%" height="300"/>
+ 	<img src="images/abajo2.jpg" width="100%" height="300"/>
  </div>
   
  </body>
